@@ -1,0 +1,12 @@
+#top-menu {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .search {
+    display: flex;
+  }
+  .search input:focus {
+    outline: none;
+    background: rgb(233, 233, 233);
+  }
